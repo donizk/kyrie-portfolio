@@ -2365,13 +2365,13 @@ input, select, textarea {
 	.image {
 		border-radius: 8px;
 		border: 0;
-		display: inline-flex;
+		display: inline-block;
 		position: relative;
 	}
 
 		.image img {
 			border-radius: 8px;
-			display: inline-flex;
+			display: block;
 		}
 
 		.image.left, .image.right {
